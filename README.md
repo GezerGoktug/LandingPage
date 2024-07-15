@@ -2,6 +2,15 @@
 
 <strong> <p> A Product Landing Page made with React and Tailwind CSS. It has been made mobile compatible. </p></strong>
 
+# Deploying
+
+**<p>You can access the project live below.</p>**
+
+<a href="https://landingpage-web-site.netlify.app/">https://landingpage-web-site.netlify.app/</a>
+<br>
+<br>
+<br>
+
 
 ![Ekran görüntüsü 2024-07-15 125306](https://github.com/user-attachments/assets/356216d6-2e6b-4b72-8400-f2aaff74b55d)
 <br/>
